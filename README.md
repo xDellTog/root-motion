@@ -50,6 +50,9 @@ Add root bone and retarget Mixamo animations in the **play mode**.
     - I already managed it, but for some reason Godot changes the resources of the original node, even duplicating.
 - Add support for non-Mixamo animations (I haven't tested it yet).
 - Add 2D support.
+- Add a custom node icon.
+- Make a documentation website.
+- Add a video tutorial.
 
 ## Credits
 
