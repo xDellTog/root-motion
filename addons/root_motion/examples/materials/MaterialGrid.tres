@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://em1ht2we55w7"]
+
+[ext_resource type="Texture2D" uid="uid://b8v7i5t3qb8tp" path="res://addons/root_motion/examples/textures/texture_09.png" id="1_kesj8"]
+
+[resource]
+albedo_texture = ExtResource("1_kesj8")
+uv1_triplanar = true
+uv1_world_triplanar = true
