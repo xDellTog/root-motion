@@ -29,3 +29,5 @@ func _physics_process(delta):
 		velocity.y -= gravity * delta
 
 	move_and_slide()
+
+	print("root_motion_position: ", animation_tree.get_root_motion_position())

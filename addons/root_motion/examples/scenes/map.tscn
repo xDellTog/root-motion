@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://bsmyohyvifilc"]
 
-[ext_resource type="Material" uid="uid://em1ht2we55w7" path="res://materials/MaterialGrid.tres" id="1_6dkw0"]
+[ext_resource type="Material" uid="uid://em1ht2we55w7" path="res://addons/root_motion/examples/materials/MaterialGrid.tres" id="1_6dkw0"]
 [ext_resource type="PackedScene" uid="uid://bd38vvlh2w5ve" path="res://addons/root_motion/examples/scenes/player.tscn" id="1_rp73i"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_choub"]
